@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selimcanermis&label=Profile%20views&color=0e75b6&style=flat" alt="selimcanermis" /> </p>
 
-- 🔭 I’m currently working on **Pandas & Selenium Projects**
+- 🔭 I’m currently working on **Pandas & Selenium Projects with Python**
 
 - 🌱 I’m currently learning **Networking and Data Science**
 
